@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GIT_Zjazd6
 
 ### Korzystanie z projektu:
@@ -11,3 +12,6 @@ Więcej o projekcie:
 1. git commit
 2. git status
 3. git pull
+=======
+# projekt2
+>>>>>>> af37f5f61028c57a916d7cf6bf43639a95371b4e
